@@ -41,7 +41,13 @@ The application is testable using Postman. Import the provided Postman collectio
 ## Endpoints
 
 - **POST /api/calendar/create**: Book a meeting with the calendar owner.
-- **GET /api/calendar/freeslots**: Find free slots for a meeting.
-- **POST /api/calendar/conflicts**: Check for meeting conflicts.
+![Screenshot 2024-04-29 173656](https://github.com/PallaviRIyer/calendar-assistant/assets/79352525/9c57beca-910d-4cb3-8775-b935e0c2453e)
+
+- **GET /api/calendar/freeslots**: Find free slots for a meeting.![Screenshot 2024-04-29 180026](https://github.com/PallaviRIyer/calendar-assistant/assets/79352525/69cf4a42-2f24-4934-acf9-acce1ef5f4f7)
+
+- **POST /api/calendar/conflicts**: Check for meeting conflicts![Screenshot 2024-04-29 180705](https://github.com/PallaviRIyer/calendar-assistant/assets/79352525/de6845f1-0332-4cfc-824b-93661903b8df)
+.
+- 
 - **POST /api/calendar/book**: Book a meeting.
+![Screenshot 2024-04-29 180219](https://github.com/PallaviRIyer/calendar-assistant/assets/79352525/95de4252-9998-454e-a8d0-723bee19051b)
 
